@@ -35,7 +35,7 @@ AI Advocate is a Retrieval-Augmented Generation (RAG)-based system designed to a
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/ai-advocate.git
+git clone https://github.com/nikhilcheryala/AI-Advocate---A-RAG-Based-Legal-Reasoning-System.git
 cd ai-advocate
 pip install -r requirements.txt
 ```
